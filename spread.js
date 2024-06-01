@@ -30,7 +30,7 @@ let b = a //copy by reference
 
 console.log(a)// [1, 2, 3]
 console.log(b)// [1, 2, 3]
-
+    
 const c = a === b
 
 console.log(c)//true
